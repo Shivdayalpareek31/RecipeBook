@@ -43,7 +43,7 @@ RecipeBook
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/mukeshkumarsoni4/RecipeBook.git
+   git clone https://github.com/Shivdayalpareek31/RecipeBook.git
 
 2. Navigate to project directory:
 
